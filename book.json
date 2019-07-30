@@ -9,6 +9,15 @@
             "facebook": false,
             "all": false
         }
-    }
+    },
+    "pluginsConfig": {
+         "disqus": {
+             "shortName": "Mathjex"
+         },
+        "github": {
+            "url": "https://github.com/GitbookIO/plugin-mathjax"
+        }
+    },
+    "plugins": ["mathjax"]
 
 }
