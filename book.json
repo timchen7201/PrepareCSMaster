@@ -11,13 +11,11 @@
         }
     },
     "pluginsConfig": {
-         "disqus": {
-             "shortName": "Mathjex"
-         },
+       
         "github": {
-            "url": "https://github.com/GitbookIO/plugin-mathjax"
+            "url": "https://github.com/timchen7201"
         }
     },
-    "plugins": ["mathjax"]
+    "plugins": ["katex"]
 
 }
