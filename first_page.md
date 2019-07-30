@@ -1,1 +1,1 @@
-# first page
+# Cheatsheet for preparing CS master examination.

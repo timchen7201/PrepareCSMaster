@@ -2,6 +2,9 @@
     "title":"Prepare for CS Master",
     "description":"CheatSheet for CS Examination",
     "author":"timchen.nba@gmail.com",
+    "structure":{
+        "readme":"first_page.md"
+    },
     "links": {
         "sharing": {
             "twitter": false,
