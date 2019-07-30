@@ -1,4 +1,13 @@
 {
-    "gitbook": ">=2.0.0",
-    "title": "My Awesome Book" 
+    "title":"Prepare for CS Master",
+    "description":"CheatSheet for CS Examination",
+    "author":"timchen.nba@gmail.com",
+    "links": {
+        "sharing": {
+            "twitter": false,
+            "facebook": false,
+            "all": false
+        }
+    }
+
 }
