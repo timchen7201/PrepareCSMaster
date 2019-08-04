@@ -4,7 +4,7 @@
  $$ x = {(\text{首項} + \text{尾項})\times \text{項數} \over 2}.$$
 
 * 等比數列公式：
- $$ x = {{\text{最後一項} \times (1 - r ^ n)} \over 1-r}$$
+ $$ x = {\text{最後一項} \times (1 - r ^ n)} \over 1-r$$
 
 * $$\sum_{i=1}^{\infty} 1^2 + 2^2 +3^2 +....+n^2 $$=
  $$ n\times (n+1) \times(2n+1)\over 6 $$
